@@ -1,7 +1,7 @@
 # SpendSmart-App
 
 
-![one](https://github.com/spraveensundar/SpendSmart-App-React-Native/assets/131776093/3d88c715-dbd6-4683-b660-e079e7a1c54c)     ![two](https://github.com/spraveensundar/SpendSmart-App-React-Native/assets/131776093/fa988d1d-e1b6-487a-827c-42def1f887c3)
+![one](https://github.com/spraveensundar/SpendSmart-App-React-Native/assets/131776093/3d88c715-dbd6-4683-b660-e079e7a1c54c)                                                                                         ![two](https://github.com/spraveensundar/SpendSmart-App-React-Native/assets/131776093/fa988d1d-e1b6-487a-827c-42def1f887c3)
 
 
 ![three](https://github.com/spraveensundar/SpendSmart-App-React-Native/assets/131776093/0b6c06af-153d-4016-aa39-2386adcbb3a8)      ![four](https://github.com/spraveensundar/SpendSmart-App-React-Native/assets/131776093/2e5c414f-1096-4a14-b9a8-afa81dd9be87)
